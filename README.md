@@ -1,4 +1,4 @@
-# py12_AutomateGoogleDinosaurGame
+# Automate the Google Dinosaur Game
 
 
 This web application project is a homework for *100 Days of Code: The Complete Python Pro Bootcamp for 2022.*
